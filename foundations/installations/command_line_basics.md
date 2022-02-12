@@ -6,6 +6,8 @@ That black screen or window is the command line interface (CLI), where you're ab
 
 In this introductory lesson to the command line, you'll learn how to navigate around your computer and how to manipulate files and directories (also known as folders) directly from the comfort of the command line. You'll soon see that this isn't as difficult as you may think. The commands you will learn in this lesson are very straightforward. So don't let the prospect of using the command line for the first time intimidate you.
 
+First of all be sure that your keyboard is the correct one. Go to settings, keyboard and check or change the keyboard to the one you have.
+
 #### Test Drive Your Terminal
 Open a terminal on your computer.
 
