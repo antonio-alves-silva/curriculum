@@ -232,6 +232,12 @@ For step-by-step instructions, please follow this [installation guide](https://t
 ### Intel RST (Rapid Storage Technology)
 
 If you encounter an error requesting you to disable **Intel RST** while attempting to install Ubuntu, follow [these instructions from Stack Exchange](https://askubuntu.com/questions/1233623/workaround-to-install-ubuntu-20-04-with-intel-rst-systems/1233644#1233644), specifically **Choice #2**. The process forces Windows to boot into safemode after you switch your motherboard storage driver to work with Ubuntu. Once it boots into Windows, the forced-on safemode is disabled and you are free to attempt an installation of Ubuntu once again.
+   
+####  Step 3.2 (optional)
+   
+   You can also using Rufus, download a pre-instaled Ubuntu like https://phillw.net/isos/linux-tools/uefi-n-bios/?C=M;O=D, using https://askubuntu.com/questions/1300454/easy-full-install-usb-that-boots-both-bios-and-uefi instrutions.
+This, I've found its the fastest, easier, and secure mode, cause i've tried other methods and I've found to be tricky and dangerous
+This instalation is faster. Of course you still have to install Chrome and Code, create your own admin user and delete the one that comes with the instalation, and of course do the updates.
 
 </details>
 
